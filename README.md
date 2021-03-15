@@ -1,7 +1,6 @@
-# Digit Recognition
 # Klassifizierung von handgeschriebenen Ziffern
 
-** Zulassungsprojekt für das Modul ’Machine Learning’ an der Heinrich Heine Universität ** 
+**Zulassungsprojekt für das Modul ’Machine Learning’ an der Heinrich Heine Universität** 
 
 Ein Klassifizierungsproblem mit scikit-learn: 
 
