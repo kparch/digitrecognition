@@ -6,6 +6,6 @@ Ein Klassifizierungsproblem mit scikit-learn:
 
 1. k-Nearest-Neighbors 
 2. SVM 
-3. Neuronal Network
+3. Neural Network
 
 Für mehr Informationen siehe DigitRecognition.pdf
